@@ -1,6 +1,6 @@
 ## Billion Oyster Project Community
 
-<a href="https://billion-oyster-project-community.github.io/">https://billion-oyster-project-community.github.io/</a>
+<a href="https://billionoysterprojectcommunity.github.io/">https://billionoysterprojectcommunity.github.io/</a>
 
 <!--
 
